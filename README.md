@@ -3,7 +3,7 @@ I'm Rizkya, a 19 years old web developer from Indonesia. :)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, Vue
+- ⚙️ React, Vue, PHP
 - 👁️ CSS, Tailwind, Bootstrap, Vuetify
 - 💽 Mongo
 
